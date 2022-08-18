@@ -7,17 +7,6 @@ For PowerTop to work in Edge Devices easily , this a image was to be required , 
 
 <p>While running thousands of application in edge devices the monitoring and optimisation of power consumption is crucial </p>
 
-<h3>Local SetUp</h3>
-<h4>Pre-requisite</h4>
-<ol>
-   <li>Linux Environment<ul>
-  </ul></li>
-  <li><a href="https://docs.docker.com/compose/install/">Docker Compose </a><ul>
-  </ul></li>
-  <li><a href="https://podman.io/getting-started/installation.html#installing-on-linux">Podman</a><ul>
-  </ul></li>
-</ol>
-
 
 <h3>Dev SetUp</h3>
 
