@@ -1,5 +1,5 @@
 <h1>PowerTop Monitoring</h1>
-<h3>Using Prometheus and Graphana</h3>
+
 
 <p>PowerTOP is a terminal-based diagnosis tool that helps you to monitor power usage by programs running on a Linux system when it is not plugged on to a power source , which makes it suitable for unreliable power sources
 For PowerTop to work in Edge Devices easily , this a image was to be required , which is build with help of Docker image and is available at <a href="https://hub.docker.com/">DockerHub registry</a>. </p>
