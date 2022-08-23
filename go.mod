@@ -3,7 +3,6 @@ module github.com/project-flotta/powertop_container
 go 1.17
 
 require (
-	github.com/containers/podman/v3 v3.4.7
 	github.com/prometheus/client_golang v1.12.2
 	github.com/prometheus/common v0.37.0
 )
@@ -29,6 +28,7 @@ require (
 	github.com/containers/image/v5 v5.17.0 // indirect
 	github.com/containers/libtrust v0.0.0-20190913040956-14b96171aa3b // indirect
 	github.com/containers/ocicrypt v1.1.2 // indirect
+	github.com/containers/podman/v3 v3.4.7 // indirect
 	github.com/containers/psgo v1.7.2-0.20220414132323-3ae304491648 // indirect
 	github.com/containers/storage v1.37.2 // indirect
 	github.com/coreos/go-systemd/v22 v22.3.2 // indirect
