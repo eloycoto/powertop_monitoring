@@ -13,5 +13,5 @@ RUN apt-get update -y &&\
 
 ONBUILD RUN go build -o metrics .../cmd/
 
-ENTRYPOINT ["./app/metrics"]
+ENTRYPOINT ["/app/metrics"]
 
